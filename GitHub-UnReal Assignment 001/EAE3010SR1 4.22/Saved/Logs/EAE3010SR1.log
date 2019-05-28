@@ -1,0 +1,1134 @@
+﻿Log file open, 05/28/19 11:24:51
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: EAE3010SR1
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.292846
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-6574378
+LogInit: Engine Version: 4.22.2-6574378+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): May 20 2019 09:54:56
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.05.28-17.24.52:136][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.05.28-17.24.52:136][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.05.28-17.24.52:136][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/Config/Windows/Engine.ini]
+[2019.05.28-17.24.52:136][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.05.28-17.24.52:136][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/Config/Windows/Engine.ini]
+[2019.05.28-17.24.52:136][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/Config/Windows/Engine.ini]
+[2019.05.28-17.24.52:136][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.05.28-17.24.52:136][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.05.28-17.24.52:136][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.05.28-17.24.52:136][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.05.28-17.24.52:136][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.05.28-17.24.52:136][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.05.28-17.24.52:136][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.05.28-17.24.52:136][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.05.28-17.24.52:136][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.05.28-17.24.52:136][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.05.28-17.24.52:136][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.05.28-17.24.52:136][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.05.28-17.24.52:137][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.05.28-17.24.52:137][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/Config/Windows/Engine.ini]
+[2019.05.28-17.24.52:137][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.05.28-17.24.52:137][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.05.28-17.24.52:137][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.05.28-17.24.52:137][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.05.28-17.24.52:137][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.05.28-17.24.52:137][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.05.28-17.24.52:137][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.05.28-17.24.52:137][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.05.28-17.24.52:137][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.05.28-17.24.52:137][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.05.28-17.24.52:137][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.05.28-17.24.52:137][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.05.28-17.24.52:137][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.05.28-17.24.52:137][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/Config/Windows/Engine.ini]
+[2019.05.28-17.24.52:137][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/Config/Windows/Engine.ini]
+[2019.05.28-17.24.52:148][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.28-17.24.52:148][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.28-17.24.52:148][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.28-17.24.52:148][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.28-17.24.52:148][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.28-17.24.52:148][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.28-17.24.52:148][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.28-17.24.52:148][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.28-17.24.52:148][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.28-17.24.52:148][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.28-17.24.52:148][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.28-17.24.52:148][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.28-17.24.52:148][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.28-17.24.52:148][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.28-17.24.52:149][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.28-17.24.52:149][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.28-17.24.52:149][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.28-17.24.52:149][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.28-17.24.52:149][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.28-17.24.52:149][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.28-17.24.52:149][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.28-17.24.52:149][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.28-17.24.52:149][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.28-17.24.52:149][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.28-17.24.52:149][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.28-17.24.52:149][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.28-17.24.52:149][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.28-17.24.52:149][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.28-17.24.52:149][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.28-17.24.52:149][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.28-17.24.52:149][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.28-17.24.52:149][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.28-17.24.52:149][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.28-17.24.52:149][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.28-17.24.52:149][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.28-17.24.52:150][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.28-17.24.52:150][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.28-17.24.52:150][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.28-17.24.52:150][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.28-17.24.52:150][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.28-17.24.52:150][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.28-17.24.52:150][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.28-17.24.52:150][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.28-17.24.52:150][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.28-17.24.52:150][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.28-17.24.52:150][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.28-17.24.52:150][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.28-17.24.52:150][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.28-17.24.52:150][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.28-17.24.52:150][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.28-17.24.52:150][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.28-17.24.52:150][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.28-17.24.52:150][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.28-17.24.52:150][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.28-17.24.52:150][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.28-17.24.52:150][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.28-17.24.52:150][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.28-17.24.52:151][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.28-17.24.52:151][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.28-17.24.52:151][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.28-17.24.52:151][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.28-17.24.52:151][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.28-17.24.52:151][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.28-17.24.52:151][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.28-17.24.52:151][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.28-17.24.52:151][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.28-17.24.52:151][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.28-17.24.52:151][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.28-17.24.52:151][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.28-17.24.52:151][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.28-17.24.52:151][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.28-17.24.52:151][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.28-17.24.52:151][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.28-17.24.52:151][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.28-17.24.52:151][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.28-17.24.52:152][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.28-17.24.52:152][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.28-17.24.52:152][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.28-17.24.52:152][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.28-17.24.52:152][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.28-17.24.52:152][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.28-17.24.52:152][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.28-17.24.52:152][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.28-17.24.52:175][  0]LogHAL: Display: Platform has ~ 8 GB [8482807808 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.28-17.24.52:175][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.05.28-17.24.52:175][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.28-17.24.52:175][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.28-17.24.52:175][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.28-17.24.52:175][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.28-17.24.52:175][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.28-17.24.52:175][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.28-17.24.52:175][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.28-17.24.52:175][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.28-17.24.52:175][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.28-17.24.52:175][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.28-17.24.52:176][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.28-17.24.52:177][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.28-17.24.52:177][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.28-17.24.52:177][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.28-17.24.52:177][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.28-17.24.52:177][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.28-17.24.52:177][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.28-17.24.52:177][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.28-17.24.52:177][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.28-17.24.52:177][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.28-17.24.52:177][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.28-17.24.52:177][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.28-17.24.52:177][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.28-17.24.52:177][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.05.28-17.24.52:177][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.05.28-17.24.52:177][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.05.28-17.24.52:177][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/Config/Windows/Engine.ini]
+[2019.05.28-17.24.52:177][  0]LogInit: Computer: LAPTOP-E0DBSMGR
+[2019.05.28-17.24.52:177][  0]LogInit: User: RCTen
+[2019.05.28-17.24.52:177][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.28-17.24.52:177][  0]LogInit: High frequency timer resolution =1.757812 MHz
+[2019.05.28-17.24.52:177][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.05.28-17.24.52:177][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.28-17.24.52:178][  0]LogMemory: Process Physical Memory: 96.61 MB used, 96.61 MB peak
+[2019.05.28-17.24.52:178][  0]LogMemory: Process Virtual Memory: 92.51 MB used, 92.51 MB peak
+[2019.05.28-17.24.52:178][  0]LogMemory: Physical Memory: 5943.72 MB used,  2146.12 MB free, 8089.84 MB total
+[2019.05.28-17.24.52:178][  0]LogMemory: Virtual Memory: 4662.75 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.05.28-17.24.52:199][  0]LogInit: Using OS detected language (en-US).
+[2019.05.28-17.24.52:199][  0]LogInit: Using OS detected locale (en-US).
+[2019.05.28-17.24.52:201][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.28-17.24.52:394][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.28-17.24.52:439][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.28-17.24.52:439][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.28-17.24.52:638][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.28-17.24.52:638][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.28-17.24.52:662][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2019.05.28-17.24.52:662][  0]LogD3D11RHI:       128/0/4044 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.05.28-17.24.52:663][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.28-17.24.52:663][  0]LogD3D11RHI:       0/0/4044 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.28-17.24.52:663][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.28-17.24.52:671][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.28-17.24.52:671][  0]LogD3D11RHI:     GPU DeviceId: 0x5917 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.28-17.24.52:671][  0]LogWindows: EnumDisplayDevices:
+[2019.05.28-17.24.52:672][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2019.05.28-17.24.52:672][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.05.28-17.24.52:672][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.05.28-17.24.52:672][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.05.28-17.24.52:672][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2019.05.28-17.24.52:672][  0]LogD3D11RHI:   Driver Version: 23.20.16.4973 (internal:23.20.16.4973, unified:23.20.16.4973)
+[2019.05.28-17.24.52:672][  0]LogD3D11RHI:      Driver Date: 2-28-2018
+[2019.05.28-17.24.52:672][  0]LogRHI: Texture pool is 1505 MB (70% of 2150 MB)
+[2019.05.28-17.24.52:690][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.28-17.24.52:695][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.28-17.24.52:696][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.28-17.24.52:696][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.28-17.24.52:699][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2019.05.28-17.24.53:064][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.05.28-17.24.53:086][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.05.28-17.24.53:101][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.05.28-17.24.53:115][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.05.28-17.24.53:129][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.05.28-17.24.53:144][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.05.28-17.24.53:158][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.05.28-17.24.53:172][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.05.28-17.24.53:179][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.05.28-17.24.53:261][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.05.28-17.24.53:261][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.05.28-17.24.53:261][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.05.28-17.24.53:261][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.05.28-17.24.53:261][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.05.28-17.24.53:261][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.05.28-17.24.53:261][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.05.28-17.24.53:261][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.05.28-17.24.53:261][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.05.28-17.24.53:261][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.05.28-17.24.53:261][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.05.28-17.24.53:261][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.05.28-17.24.53:261][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.05.28-17.24.53:261][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.05.28-17.24.53:261][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.05.28-17.24.53:261][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.05.28-17.24.53:261][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.05.28-17.24.53:261][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.05.28-17.24.53:263][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.05.28-17.24.53:312][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.05.28-17.24.53:312][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.05.28-17.24.53:336][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.05.28-17.24.53:336][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.05.28-17.24.53:348][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.05.28-17.24.53:360][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.05.28-17.24.53:373][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.05.28-17.24.53:386][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.05.28-17.24.53:430][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.05.28-17.24.53:430][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.05.28-17.24.53:430][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.28-17.24.53:440][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.05.28-17.24.53:526][  0]LogShaderCompilers: Guid format shader working directory is -86 characters bigger than the processId version (../../../../../../Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Intermediate/Shaders/WorkingDirectory/13652/).
+[2019.05.28-17.24.53:526][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/RCTen/AppData/Local/Temp/UnrealShaderWorkingDir/A329633F4931B112CB648F982E0830B1/'.
+[2019.05.28-17.24.53:531][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.28-17.24.53:531][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.28-17.24.53:531][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.28-17.24.54:175][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.28-17.24.54:243][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/RCTen/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.05.28-17.24.54:243][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/RCTen/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.05.28-17.24.54:243][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.28-17.24.54:243][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.28-17.24.54:243][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.28-17.24.54:243][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.28-17.24.54:256][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.28-17.24.54:256][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.28-17.24.54:256][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.05.28-17.24.54:269][  0]LogDerivedDataCache: Using Local data cache path C:/Users/RCTen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.28-17.24.54:269][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.28-17.24.54:269][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.28-17.24.54:303][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.28-17.24.54:304][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.28-17.24.54:305][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.28-17.24.54:389][  0]LogAssetRegistry: FAssetRegistry took 0.0337 seconds to start up
+[2019.05.28-17.24.54:755][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.28-17.24.54:903][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.28-17.24.54:903][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.05.28-17.24.54:903][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.28-17.24.54:903][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.05.28-17.24.54:903][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.05.28-17.24.54:922][  0]LogNetVersion: EAE3010SR1 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 4104479535)
+[2019.05.28-17.24.55:397][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.064421 seconds
+[2019.05.28-17.24.55:405][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.05.28-17.24.55:405][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.05.28-17.24.55:405][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.28-17.24.56:418][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.28-17.24.56:444][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.28-17.24.56:600][  0]SourceControl: Source control is disabled
+[2019.05.28-17.24.56:600][  0]SourceControl: Source control is disabled
+[2019.05.28-17.24.56:602][  0]SourceControl: Source control is disabled
+[2019.05.28-17.24.56:603][  0]SourceControl: Source control is disabled
+[2019.05.28-17.24.56:611][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.05.28-17.24.56:612][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.05.28-17.24.56:724][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.28-17.24.56:782][  0]LogOcInput: OculusInput pre-init called
+[2019.05.28-17.24.57:498][  0]LogEngine: Initializing Engine...
+[2019.05.28-17.24.57:498][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.28-17.24.57:499][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.05.28-17.24.57:753][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.28-17.24.57:777][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.28-17.24.57:784][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.28-17.24.59:231][  0]LogInit: FAudioDevice initialized.
+[2019.05.28-17.24.59:232][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.28-17.24.59:390][  0]LogDerivedDataCache: Saved boot cache 0.16s 71MB C:/Users/RCTen/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.05.28-17.24.59:418][  0]LogInit: Texture streaming: Enabled
+[2019.05.28-17.24.59:548][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.28-17.24.59:590][  0]LogInit: Transaction tracking system initialized
+[2019.05.28-17.24.59:618][  0]BlueprintLog: New page: Editor Load
+[2019.05.28-17.24.59:724][  0]LocalizationService: Localization service is disabled
+[2019.05.28-17.24.59:889][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.05.28-17.24.59:889][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.05.28-17.25.00:072][  0]LogFileCache: Scanning file cache for directory 'C:/Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Content/' took 0.01s
+[2019.05.28-17.25.00:072][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.28-17.25.00:072][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.28-17.25.00:288][  0]SourceControl: Source control is disabled
+[2019.05.28-17.25.00:288][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.28-17.25.00:288][  0]LightingResults: New page: Lighting Build
+[2019.05.28-17.25.00:292][  0]MapCheck: New page: Map Check
+[2019.05.28-17.25.00:292][  0]LightingResults: New page: Lighting Build
+[2019.05.28-17.25.00:323][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.05.28-17.25.00:426][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.05.28-17.25.00:431][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.28-17.25.00:456][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.05.28-17.25.00:457][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.28-17.25.00:457][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.163ms to complete.
+[2019.05.28-17.25.00:457][  0]LogFileHelpers: Loading map 'Template_Default' took 0.169
+[2019.05.28-17.25.00:822][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.28-17.25.00:831][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.28-17.25.00:840][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.28-17.25.00:847][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.28-17.25.00:857][  0]LogCollectionManager: Loaded 0 collections in 0.002004 seconds
+[2019.05.28-17.25.01:036][  0]LogFileCache: Scanning file cache for directory 'C:/Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/Collections/' took 0.01s
+[2019.05.28-17.25.01:036][  0]LogFileCache: Scanning file cache for directory 'C:/Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Content/Developers/RCTen/Collections/' took 0.01s
+[2019.05.28-17.25.01:036][  0]LogFileCache: Scanning file cache for directory 'C:/Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Content/Collections/' took 0.01s
+[2019.05.28-17.25.01:036][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.05.28-17.25.01:044][  0]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2732 classes and 659 folders.
+[2019.05.28-17.25.01:052][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.28-17.25.01:180][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-17.25.01:180][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-17.25.01:181][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-17.25.01:182][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-17.25.01:183][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-17.25.01:183][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-17.25.01:183][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-17.25.01:184][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-17.25.01:184][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-17.25.01:185][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-17.25.01:185][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-17.25.01:186][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-17.25.01:186][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-17.25.01:187][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-17.25.01:187][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-17.25.01:187][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-17.25.01:188][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-17.25.01:188][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-17.25.01:189][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-17.25.01:189][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-17.25.01:190][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-17.25.01:190][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-17.25.01:191][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-17.25.01:191][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-17.25.01:191][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-17.25.01:192][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-17.25.02:634][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.28-17.25.02:640][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.05.28-17.25.02:652][  0]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.28-17.25.02:654][  0]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.28-17.25.02:764][  0]LogSlate: Took 0.105533 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.28-17.25.02:857][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2019.05.28-17.25.03:059][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.28-17.25.03:059][  0]LogLoad: (Engine Initialization) Total time: 13.23 seconds
+[2019.05.28-17.25.03:059][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.28-17.25.03:078][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.28-17.25.03:127][  0]LogAssetRegistry: Asset discovery search completed in 8.7608 seconds
+[2019.05.28-17.25.03:130][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.05.28-17.25.03:130][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000061 seconds (updated 0 objects)
+[2019.05.28-17.25.03:132][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.28-17.25.03:149][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.28-17.25.49:811][421]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-17.25.49:975][427]LogSlate: Took 0.000864 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.28-17.25.50:422][427]LogMaterial: Display: Missing cached shader map for material WB_Sidewalk, compiling. 
+[2019.05.28-17.25.50:473][427]LogMaterial: Display: Missing cached shader map for material WB_Street, compiling. 
+[2019.05.28-17.25.50:766][427]LogMaterial: Display: Missing cached shader map for material WB_Other, compiling. 
+[2019.05.28-17.25.50:789][427]LogAIModule: Creating AISystem for world EAE3010_WhiteBox_InClass
+[2019.05.28-17.25.51:740][427]LogAssetEditorManager: Opening Asset editor for World /Game/EAE3010_WhiteBox_InClass.EAE3010_WhiteBox_InClass
+[2019.05.28-17.25.51:785][427]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.05.28-17.25.51:788][427]LightingResults: New page: Lighting Build
+[2019.05.28-17.25.51:789][427]LoadErrors: New page: Loading map: EAE3010_WhiteBox_InClass.umap
+[2019.05.28-17.25.51:791][427]MapCheck: New page: Map Check
+[2019.05.28-17.25.51:791][427]LightingResults: New page: Lighting Build
+[2019.05.28-17.25.51:830][427]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2019.05.28-17.25.51:887][427]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.28-17.25.51:937][427]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.05.28-17.25.53:123][427]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.28-17.25.53:128][427]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 5.056ms to complete.
+[2019.05.28-17.25.53:128][427]LogFileHelpers: Loading map 'EAE3010_WhiteBox_InClass' took 1.342
+[2019.05.28-17.26.43:180][800]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-17.27.01:454][402]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-17.30.38:668][319]LogEditorViewport: Clicking Background
+[2019.05.28-17.30.41:541][401]LogEditorViewport: Clicking Background
+[2019.05.28-17.30.43:490][462]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush290)
+[2019.05.28-17.30.43:654][462]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush290)
+[2019.05.28-17.31.05:063][ 68]Cmd: TRANSACTION UNDO
+[2019.05.28-17.31.05:063][ 68]LogEditorTransaction: Undo Scale Actors
+[2019.05.28-17.31.08:421][ 70]Cmd: TRANSACTION UNDO
+[2019.05.28-17.31.08:421][ 70]LogEditorTransaction: Undo Clicking on Actors (double-click)
+[2019.05.28-17.32.05:599][243]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-17.32.21:091][707]LogEditorViewport: Clicking Background
+[2019.05.28-17.32.41:224][316]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-17.33.43:907][784]LogEditorViewport: Clicking Background
+[2019.05.28-17.33.46:217][845]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-17.33.57:564][225]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-17.34.01:285][444]LogEditorViewport: Clicking Background
+[2019.05.28-17.34.03:498][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-17.34.03:872][515]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.05.28-17.34.07:370][515]LogSavePackage: Moving '../../../../../../Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/EAE3010_WhiteBox_InClass1B86BB73408BC55434107F8F45236EE2.tmp' to '../../../../../../Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Content/EAE3010_WhiteBox_InClass.umap'
+[2019.05.28-17.34.07:691][515]LogSavePackage: Moving '../../../../../../Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/EAE3010_WhiteBox_InClass_BuiltDaA5A3932049361AE073E1F4A748280572.tmp' to '../../../../../../Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Content/EAE3010_WhiteBox_InClass_BuiltData.uasset'
+[2019.05.28-17.34.10:589][597]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-17.34.12:333][657]LogEditorViewport: Clicking Background
+[2019.05.28-17.34.13:359][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-17.36.08:743][319]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.05.28-17.36.39:300][149]LogEditorViewport: Clicking Background
+[2019.05.28-17.37.08:477][ 30]LogEditorViewport: Clicking Background
+[2019.05.28-17.37.28:469][573]LogEditorViewport: Clicking Background
+[2019.05.28-17.37.36:104][769]LogEditorViewport: Clicking Background
+[2019.05.28-17.39.24:122][136]LogEditorViewport: Clicking Background
+[2019.05.28-17.40.32:487][367]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-17.40.38:595][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-17.40.49:449][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-17.42.26:006][886]LogAssetEditorManager: Opening Asset editor for Material /Game/WB_Materials/WB_BuildingBlock.WB_BuildingBlock
+[2019.05.28-17.42.26:063][886]LogMaterial: Display: Missing cached shader map for material WB_BuildingBlock, compiling. 
+[2019.05.28-17.42.27:651][886]LogMaterial: Display: Missing cached shader map for material WB_BuildingBlock, compiling. 
+[2019.05.28-17.42.27:688][886]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.28-17.42.27:921][886]LogSlate: Took 0.155095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.28-17.42.28:610][887]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.28-17.42.35:456][946]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.05.28-17.42.35:456][946]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.05.28-17.42.35:456][946]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.28-17.42.35:456][946]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.28-17.44.27:484][714]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2019.05.28-17.44.29:627][714]LogSavePackage: Moving '../../../../../../Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/EAE3010_WhiteBox_InClass_Auto1C5D157FB4E6AEE63EE655D9B2214C974.tmp' to '../../../../../../Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/Autosaves/Game/EAE3010_WhiteBox_InClass_Auto1.umap'
+[2019.05.28-17.44.29:635][714]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/EAE3010_WhiteBox_InClass' took 2.228
+[2019.05.28-17.44.29:635][714]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.228
+[2019.05.28-17.44.29:640][714]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WB_Materials/WB_BuildingBlock] ([1] browsable assets)...
+[2019.05.28-17.44.29:684][714]OBJ SavePackage:     Rendered thumbnail for [Material /Game/WB_Materials/WB_BuildingBlock.WB_BuildingBlock]
+[2019.05.28-17.44.29:684][714]OBJ SavePackage: Finished generating thumbnails for package [/Game/WB_Materials/WB_BuildingBlock]
+[2019.05.28-17.44.29:969][714]LogSavePackage: Moving '../../../../../../Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/WB_BuildingBlock_Auto1446148CE45C406CEAAD8C69CAC691D7A.tmp' to '../../../../../../Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/Autosaves/Game/WB_Materials/WB_BuildingBlock_Auto1.uasset'
+[2019.05.28-17.44.29:971][714]LogFileHelpers: Auto-saving content packages took 0.332
+[2019.05.28-17.44.49:444][924]LogMaterial: Display: Missing cached shader map for material WB_BuildingBlock, compiling. 
+[2019.05.28-17.44.49:461][924]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.05.28-17.44.49:465][924]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.28-17.44.53:083][994]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.28-17.44.53:825][ 20]LogMaterial: Display: Missing cached shader map for material WB_BuildingBlock, compiling. 
+[2019.05.28-17.44.53:861][ 20]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.05.28-17.44.55:743][ 48]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.28-17.44.58:726][ 89]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.28-17.45.02:513][216]LogMaterial: Display: Missing cached shader map for material WB_BuildingBlock, compiling. 
+[2019.05.28-17.45.02:534][216]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.28-17.45.02:540][216]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.05.28-17.45.05:518][317]LogMaterial: Display: Missing cached shader map for material WB_BuildingBlock, compiling. 
+[2019.05.28-17.45.05:551][317]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.05.28-17.45.08:185][380]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.28-17.45.08:357][386]LogMaterial: Display: Missing cached shader map for material WB_BuildingBlock, compiling. 
+[2019.05.28-17.45.08:395][386]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.05.28-17.45.09:048][395]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.28-17.45.11:088][460]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.28-17.45.12:782][516]LogMaterial: Display: Missing cached shader map for material WB_BuildingBlock, compiling. 
+[2019.05.28-17.45.12:826][516]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.05.28-17.45.13:832][529]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.28-17.45.16:836][629]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.28-17.45.18:077][672]LogMaterial: Display: Missing cached shader map for material WB_BuildingBlock, compiling. 
+[2019.05.28-17.45.18:112][672]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.05.28-17.45.19:180][686]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.28-17.45.21:360][744]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.28-17.45.23:910][831]LogMaterial: Display: Missing cached shader map for material WB_BuildingBlock, compiling. 
+[2019.05.28-17.45.23:948][831]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.05.28-17.45.24:719][841]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.28-17.45.25:195][847]LogMaterial: Display: Missing cached shader map for material WB_BuildingBlock, compiling. 
+[2019.05.28-17.45.25:237][847]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.05.28-17.45.25:271][847]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.28-17.45.25:581][851]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.28-17.45.28:755][894]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.28-17.45.34:701][974]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.05.28-17.45.34:701][974]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2019.05.28-17.45.34:701][974]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.28-17.45.34:701][974]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.28-17.45.39:495][102]LogMaterial: Display: Missing cached shader map for material WB_BuildingBlock, compiling. 
+[2019.05.28-17.45.39:516][102]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.28-17.45.39:520][102]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.05.28-17.45.39:548][102]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.28-17.45.42:524][142]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.28-17.45.48:111][222]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.05.28-17.45.48:111][222]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2019.05.28-17.45.48:111][222]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.28-17.45.48:111][222]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.28-17.45.52:835][287]LogMaterial: Display: Missing cached shader map for material WB_BuildingBlock, compiling. 
+[2019.05.28-17.45.52:870][287]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.28-17.45.52:870][287]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.05.28-17.45.52:900][287]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.28-17.45.56:069][328]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.28-17.46.02:916][599]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.05.28-17.46.02:917][599]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2019.05.28-17.46.02:917][599]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.28-17.46.02:917][599]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.28-17.46.17:925][736]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.28-17.46.20:857][801]LogMaterial: Display: Missing cached shader map for material WB_BuildingBlock, compiling. 
+[2019.05.28-17.46.20:877][801]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.28-17.46.20:877][801]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.28-17.46.21:418][801]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.28-17.46.21:453][801]LogMaterial: Display: Missing cached shader map for material WB_BuildingBlock, compiling. 
+[2019.05.28-17.46.21:496][801]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.28-17.46.21:697][802]LogSlate: Took 0.092651 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.28-17.46.22:305][811]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.28-17.46.25:602][859]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.28-17.46.30:730][933]MaterialEditorStats: Base pass shader: 109 instructions
+[2019.05.28-17.46.30:730][933]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2019.05.28-17.46.30:730][933]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.28-17.46.30:730][933]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.28-17.46.37:095][ 62]LogMaterialEditor: Saving and Compiling material WB_BuildingBlock
+[2019.05.28-17.46.39:454][ 62]LogMaterial: Display: Missing cached shader map for material WB_BuildingBlock, compiling. 
+[2019.05.28-17.46.39:507][ 62]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.28-17.46.39:527][ 62]LogMaterial: Display: Missing cached shader map for material WB_BuildingBlock, compiling. 
+[2019.05.28-17.46.39:580][ 62]LogMaterial: Display: Missing cached shader map for material WB_BuildingBlock, compiling. 
+[2019.05.28-17.46.39:656][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2019.05.28-17.46.40:480][ 62]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.28-17.46.41:877][ 62]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.28-17.46.41:979][ 62]TextureStreamingBuild: Display: Compiling optional shaders took 1.535 seconds.
+[2019.05.28-17.46.42:032][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.05.28-17.46.45:330][ 62]LogSavePackage: Moving '../../../../../../Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/WB_BuildingBlock18FD07E04B1E9AF74698BA91042A3802.tmp' to '../../../../../../Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Content/WB_Materials/WB_BuildingBlock.uasset'
+[2019.05.28-17.47.09:709][704]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-17.47.24:158][287]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-17.47.30:266][482]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-17.47.33:266][606]LogEditorViewport: Clicking Background
+[2019.05.28-17.47.37:020][726]Cmd: EDIT COPY
+[2019.05.28-17.47.38:060][749]Cmd: EDIT PASTE
+[2019.05.28-17.47.44:552][876]LogEditorViewport: Clicking Background
+[2019.05.28-17.48.01:801][345]Cmd: DELETE
+[2019.05.28-17.48.01:801][345]Cmd: ACTOR DELETE
+[2019.05.28-17.48.02:244][345]LogEditorActor: Deleted Actor: Brush
+[2019.05.28-17.48.02:397][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.05.28-17.48.03:097][345]LogEditorActor: Deleted 1 Actors (1.190 secs)
+[2019.05.28-17.48.42:403][410]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-17.48.59:065][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-17.49.02:724][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-17.49.08:356][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-17.49.14:937][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-17.49.18:770][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-17.49.31:390][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-17.54.30:232][118]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.05.28-17.54.32:422][118]LogSavePackage: Moving '../../../../../../Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/EAE3010_WhiteBox_InClass_Auto20205A76441AA4E7E272599A5F5724B94.tmp' to '../../../../../../Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/Autosaves/Game/EAE3010_WhiteBox_InClass_Auto2.umap'
+[2019.05.28-17.54.32:427][118]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/EAE3010_WhiteBox_InClass' took 2.237
+[2019.05.28-17.54.32:427][118]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.237
+[2019.05.28-17.55.59:446][945]Cmd: TRANSACTION UNDO
+[2019.05.28-17.55.59:446][945]LogEditorTransaction: Undo Move Actors
+[2019.05.28-17.56.01:339][945]LogMaterial: Display: Missing cached shader map for material WB_BuildingBlock, compiling. 
+[2019.05.28-17.56.01:404][945]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.28-17.56.01:404][945]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.28-17.56.01:806][946]LogEditorViewport: Clicking Background
+[2019.05.28-17.56.05:817][ 20]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.28-17.56.09:306][ 95]Cmd: EDIT COPY
+[2019.05.28-17.56.09:672][103]Cmd: EDIT PASTE
+[2019.05.28-17.56.11:449][104]MaterialEditorStats: Base pass shader: 109 instructions
+[2019.05.28-17.56.11:449][104]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2019.05.28-17.56.11:449][104]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.28-17.56.11:449][104]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.28-17.56.25:329][398]Cmd: TRANSACTION UNDO
+[2019.05.28-17.56.25:329][398]LogEditorTransaction: Undo Move Actors
+[2019.05.28-17.56.26:802][398]LogMaterial: Display: Missing cached shader map for material WB_BuildingBlock, compiling. 
+[2019.05.28-17.56.26:817][398]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.28-17.56.29:795][449]LogEditorViewport: Clicking Background
+[2019.05.28-17.56.31:458][491]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.28-17.56.37:043][610]MaterialEditorStats: Base pass shader: 109 instructions
+[2019.05.28-17.56.37:043][610]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2019.05.28-17.56.37:043][610]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.28-17.56.37:043][610]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.28-17.56.41:173][733]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-17.56.47:580][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-17.56.56:263][420]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-17.56.58:490][531]LogEditorViewport: Clicking Background
+[2019.05.28-17.57.12:121][ 43]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush670)
+[2019.05.28-17.57.14:168][111]Cmd: EDIT COPY
+[2019.05.28-17.57.21:001][317]LogEditorViewport: Clicking Background
+[2019.05.28-17.57.22:398][365]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush670)
+[2019.05.28-17.57.27:637][514]LogEditorViewport: Clicking Background
+[2019.05.28-17.57.29:334][574]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush670)
+[2019.05.28-17.57.38:296][858]LogEditorViewport: Clicking Background
+[2019.05.28-17.57.39:461][901]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush670)
+[2019.05.28-17.57.40:499][936]Cmd: EDIT COPY
+[2019.05.28-17.57.41:830][984]Cmd: EDIT PASTE
+[2019.05.28-17.57.50:461][218]Cmd: EDIT PASTE
+[2019.05.28-17.57.59:086][451]LogEditorViewport: Clicking Background
+[2019.05.28-17.58.00:754][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-17.58.05:764][783]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush673)
+[2019.05.28-17.58.07:208][832]Cmd: EDIT COPY
+[2019.05.28-17.58.07:742][851]Cmd: EDIT PASTE
+[2019.05.28-17.58.30:350][609]LogEditorViewport: Clicking Background
+[2019.05.28-17.58.31:656][657]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush674)
+[2019.05.28-17.58.33:160][687]Cmd: EDIT COPY
+[2019.05.28-17.58.34:095][720]Cmd: EDIT PASTE
+[2019.05.28-17.58.40:165][857]LogEditorViewport: Clicking Background
+[2019.05.28-17.58.41:798][918]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush675)
+[2019.05.28-17.58.42:840][954]Cmd: EDIT COPY
+[2019.05.28-17.58.47:088][113]Cmd: EDIT PASTE
+[2019.05.28-17.58.54:823][314]LogEditorViewport: Clicking Background
+[2019.05.28-17.58.59:382][483]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush676)
+[2019.05.28-18.00.07:202][969]LogEditorViewport: Clicking Background
+[2019.05.28-18.00.09:169][ 41]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush676)
+[2019.05.28-18.00.10:960][103]Cmd: EDIT COPY
+[2019.05.28-18.00.11:846][134]Cmd: EDIT PASTE
+[2019.05.28-18.00.20:693][369]LogEditorViewport: Clicking Background
+[2019.05.28-18.00.22:070][419]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush677)
+[2019.05.28-18.00.23:004][450]Cmd: EDIT COPY
+[2019.05.28-18.00.23:533][469]Cmd: EDIT PASTE
+[2019.05.28-18.00.31:738][676]LogEditorViewport: Clicking Background
+[2019.05.28-18.00.32:857][712]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush678)
+[2019.05.28-18.00.33:752][740]Cmd: EDIT COPY
+[2019.05.28-18.00.34:538][766]Cmd: EDIT PASTE
+[2019.05.28-18.00.40:310][892]LogEditorViewport: Clicking Background
+[2019.05.28-18.00.41:173][921]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush679)
+[2019.05.28-18.00.41:972][948]Cmd: EDIT COPY
+[2019.05.28-18.00.42:422][964]Cmd: EDIT PASTE
+[2019.05.28-18.00.47:270][ 53]LogEditorViewport: Clicking Background
+[2019.05.28-18.00.52:729][254]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush680)
+[2019.05.28-18.00.53:726][287]Cmd: EDIT COPY
+[2019.05.28-18.00.54:309][308]Cmd: EDIT PASTE
+[2019.05.28-18.00.59:450][394]LogEditorViewport: Clicking Background
+[2019.05.28-18.01.00:246][421]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush681)
+[2019.05.28-18.01.01:072][449]Cmd: EDIT COPY
+[2019.05.28-18.01.01:620][467]Cmd: EDIT PASTE
+[2019.05.28-18.01.06:356][552]LogEditorViewport: Clicking Background
+[2019.05.28-18.01.07:278][584]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush682)
+[2019.05.28-18.01.07:996][608]Cmd: EDIT COPY
+[2019.05.28-18.01.08:332][620]Cmd: EDIT PASTE
+[2019.05.28-18.01.14:611][757]LogEditorViewport: Clicking Background
+[2019.05.28-18.01.15:211][777]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush683)
+[2019.05.28-18.01.16:135][809]Cmd: EDIT COPY
+[2019.05.28-18.01.16:431][820]Cmd: EDIT PASTE
+[2019.05.28-18.01.20:903][891]LogEditorViewport: Clicking Background
+[2019.05.28-18.01.21:805][922]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush684)
+[2019.05.28-18.01.22:653][950]Cmd: EDIT COPY
+[2019.05.28-18.01.22:884][958]Cmd: EDIT PASTE
+[2019.05.28-18.01.27:944][ 27]LogEditorViewport: Clicking Background
+[2019.05.28-18.01.28:569][ 49]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush685)
+[2019.05.28-18.01.29:187][ 69]Cmd: EDIT COPY
+[2019.05.28-18.01.29:389][ 76]Cmd: EDIT PASTE
+[2019.05.28-18.01.38:498][288]LogEditorViewport: Clicking Background
+[2019.05.28-18.01.39:217][312]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush686)
+[2019.05.28-18.01.39:977][336]Cmd: EDIT COPY
+[2019.05.28-18.01.40:168][343]Cmd: EDIT PASTE
+[2019.05.28-18.01.47:125][509]LogEditorViewport: Clicking Background
+[2019.05.28-18.01.48:651][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-18.01.58:048][ 97]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush687)
+[2019.05.28-18.02.05:017][343]LogEditorViewport: Clicking Background
+[2019.05.28-18.02.05:753][369]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush687)
+[2019.05.28-18.02.07:122][417]Cmd: EDIT COPY
+[2019.05.28-18.02.07:338][425]Cmd: EDIT PASTE
+[2019.05.28-18.02.13:207][553]LogEditorViewport: Clicking Background
+[2019.05.28-18.02.14:404][595]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-18.02.43:080][465]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-18.02.46:131][598]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush688)
+[2019.05.28-18.02.47:380][638]Cmd: EDIT COPY
+[2019.05.28-18.02.47:627][646]Cmd: EDIT PASTE
+[2019.05.28-18.02.55:429][831]LogEditorViewport: Clicking Background
+[2019.05.28-18.02.56:512][869]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush689)
+[2019.05.28-18.02.57:487][901]Cmd: EDIT COPY
+[2019.05.28-18.02.57:711][909]Cmd: EDIT PASTE
+[2019.05.28-18.03.04:346][ 42]LogEditorViewport: Clicking Background
+[2019.05.28-18.03.05:658][ 87]LogEditorViewport: Clicking Background
+[2019.05.28-18.03.06:051][100]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush690)
+[2019.05.28-18.03.06:936][130]Cmd: EDIT COPY
+[2019.05.28-18.03.07:148][137]Cmd: EDIT PASTE
+[2019.05.28-18.03.15:915][342]LogEditorViewport: Clicking Background
+[2019.05.28-18.03.16:637][364]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush691)
+[2019.05.28-18.03.17:459][389]Cmd: EDIT COPY
+[2019.05.28-18.03.17:642][395]Cmd: EDIT PASTE
+[2019.05.28-18.03.23:176][493]LogEditorViewport: Clicking Background
+[2019.05.28-18.03.23:977][521]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush692)
+[2019.05.28-18.03.24:789][547]Cmd: EDIT COPY
+[2019.05.28-18.03.24:980][554]Cmd: EDIT PASTE
+[2019.05.28-18.03.29:814][639]LogEditorViewport: Clicking Background
+[2019.05.28-18.03.31:508][700]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush693)
+[2019.05.28-18.03.32:880][746]Cmd: EDIT COPY
+[2019.05.28-18.03.33:056][752]Cmd: EDIT PASTE
+[2019.05.28-18.03.37:952][834]LogEditorViewport: Clicking Background
+[2019.05.28-18.03.39:254][879]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush694)
+[2019.05.28-18.03.40:102][905]Cmd: EDIT COPY
+[2019.05.28-18.03.40:281][911]Cmd: EDIT PASTE
+[2019.05.28-18.03.45:559][996]LogEditorViewport: Clicking Background
+[2019.05.28-18.03.46:311][ 22]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush695)
+[2019.05.28-18.03.47:025][ 45]Cmd: EDIT COPY
+[2019.05.28-18.03.47:194][ 51]Cmd: EDIT PASTE
+[2019.05.28-18.03.53:410][175]LogEditorViewport: Clicking Background
+[2019.05.28-18.03.57:748][331]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush696)
+[2019.05.28-18.03.58:609][360]Cmd: EDIT COPY
+[2019.05.28-18.03.58:790][366]Cmd: EDIT PASTE
+[2019.05.28-18.04.04:903][486]LogEditorViewport: Clicking Background
+[2019.05.28-18.04.05:685][511]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush697)
+[2019.05.28-18.04.07:102][557]Cmd: EDIT COPY
+[2019.05.28-18.04.07:314][564]Cmd: EDIT PASTE
+[2019.05.28-18.04.14:104][689]LogEditorViewport: Clicking Background
+[2019.05.28-18.04.14:721][711]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush698)
+[2019.05.28-18.04.15:675][741]Cmd: EDIT COPY
+[2019.05.28-18.04.15:896][749]Cmd: EDIT PASTE
+[2019.05.28-18.04.21:919][850]LogEditorViewport: Clicking Background
+[2019.05.28-18.04.23:491][906]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush699)
+[2019.05.28-18.04.24:396][937]Cmd: EDIT COPY
+[2019.05.28-18.04.24:557][942]Cmd: EDIT PASTE
+[2019.05.28-18.04.30:409][ 39]LogEditorViewport: Clicking Background
+[2019.05.28-18.04.31:388][ 73]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush700)
+[2019.05.28-18.04.32:253][101]Cmd: EDIT COPY
+[2019.05.28-18.04.32:479][109]Cmd: EDIT PASTE
+[2019.05.28-18.04.38:307][213]LogEditorViewport: Clicking Background
+[2019.05.28-18.04.39:343][250]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush701)
+[2019.05.28-18.04.40:167][276]Cmd: EDIT COPY
+[2019.05.28-18.04.40:332][282]Cmd: EDIT PASTE
+[2019.05.28-18.04.45:821][384]LogEditorViewport: Clicking Background
+[2019.05.28-18.04.46:632][412]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush702)
+[2019.05.28-18.04.47:435][438]Cmd: EDIT COPY
+[2019.05.28-18.04.47:626][444]Cmd: EDIT PASTE
+[2019.05.28-18.04.53:398][538]LogEditorViewport: Clicking Background
+[2019.05.28-18.04.54:122][563]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush703)
+[2019.05.28-18.04.54:879][588]Cmd: EDIT COPY
+[2019.05.28-18.04.55:057][594]Cmd: EDIT PASTE
+[2019.05.28-18.05.01:764][702]LogEditorViewport: Clicking Background
+[2019.05.28-18.05.02:693][732]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush704)
+[2019.05.28-18.05.03:678][764]Cmd: EDIT COPY
+[2019.05.28-18.05.03:875][771]Cmd: EDIT PASTE
+[2019.05.28-18.05.11:827][961]LogEditorViewport: Clicking Background
+[2019.05.28-18.05.43:795][221]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-18.05.46:372][221]LogUObjectHash: Compacting FUObjectHashTables data took 207.99ms
+[2019.05.28-18.05.59:292][221]LogSavePackage: Moving '../../../../../../Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/EAE3010_WhiteBox_InClass_Auto3ADF507AA4E069739D5D17B85C9CB082D.tmp' to '../../../../../../Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/Autosaves/Game/EAE3010_WhiteBox_InClass_Auto3.umap'
+[2019.05.28-18.06.02:653][221]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/EAE3010_WhiteBox_InClass' took 18.415
+[2019.05.28-18.06.02:653][221]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 18.415
+[2019.05.28-18.06.23:591][678]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-18.06.35:608][678]LogSlate: Window 'Message' being destroyed
+[2019.05.28-18.06.35:610][678]LogSlate: Window 'Message' being destroyed
+[2019.05.28-18.06.51:900][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-18.06.52:007][828]LogMaterialEditor: Saving and Compiling material WB_BuildingBlock
+[2019.05.28-18.07.12:665][828]LogMaterial: Display: Missing cached shader map for material WB_BuildingBlock, compiling. 
+[2019.05.28-18.07.12:905][828]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.28-18.07.13:792][828]LogMaterial: Display: Missing cached shader map for material WB_BuildingBlock, compiling. 
+[2019.05.28-18.07.15:212][828]LogMaterial: Display: Missing cached shader map for material WB_BuildingBlock, compiling. 
+[2019.05.28-18.07.15:484][828]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2019.05.28-18.07.15:876][828]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.28-18.07.18:391][828]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.28-18.07.18:391][828]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.28-18.07.18:536][828]TextureStreamingBuild: Display: Compiling optional shaders took 2.716 seconds.
+[2019.05.28-18.07.18:668][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.05.28-18.07.26:983][828]LogSavePackage: Moving '../../../../../../Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/WB_BuildingBlock0D585D6E47F3A02986735EA7FEB7A0D1.tmp' to '../../../../../../Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Content/WB_Materials/WB_BuildingBlock.uasset'
+[2019.05.28-18.07.41:550][108]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-18.07.48:326][368]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush705)
+[2019.05.28-18.07.52:740][526]Cmd: EDIT COPY
+[2019.05.28-18.07.52:958][531]Cmd: EDIT PASTE
+[2019.05.28-18.08.02:655][701]LogEditorViewport: Clicking Background
+[2019.05.28-18.08.03:087][707]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (34.913 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.28-18.08.03:667][731]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush706)
+[2019.05.28-18.08.04:565][763]Cmd: EDIT COPY
+[2019.05.28-18.08.04:756][770]Cmd: EDIT PASTE
+[2019.05.28-18.08.11:711][920]LogEditorViewport: Clicking Background
+[2019.05.28-18.08.12:696][958]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush707)
+[2019.05.28-18.08.13:618][991]Cmd: EDIT COPY
+[2019.05.28-18.08.13:798][997]Cmd: EDIT PASTE
+[2019.05.28-18.08.20:619][113]LogEditorViewport: Clicking Background
+[2019.05.28-18.08.21:485][144]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush708)
+[2019.05.28-18.08.22:344][173]Cmd: EDIT COPY
+[2019.05.28-18.08.22:528][180]Cmd: EDIT PASTE
+[2019.05.28-18.08.28:716][297]LogEditorViewport: Clicking Background
+[2019.05.28-18.08.29:529][327]LogEditorViewport: Clicking Background
+[2019.05.28-18.08.30:328][359]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush709)
+[2019.05.28-18.08.31:160][389]Cmd: EDIT COPY
+[2019.05.28-18.08.31:379][397]Cmd: EDIT PASTE
+[2019.05.28-18.08.39:884][564]LogEditorViewport: Clicking Background
+[2019.05.28-18.08.40:826][599]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush710)
+[2019.05.28-18.08.41:675][628]Cmd: EDIT COPY
+[2019.05.28-18.08.41:854][635]Cmd: EDIT PASTE
+[2019.05.28-18.08.47:035][722]LogEditorViewport: Clicking Background
+[2019.05.28-18.08.47:773][749]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush711)
+[2019.05.28-18.08.48:523][775]Cmd: EDIT COPY
+[2019.05.28-18.08.48:715][782]Cmd: EDIT PASTE
+[2019.05.28-18.09.00:222][  2]LogEditorViewport: Clicking Background
+[2019.05.28-18.09.43:221][804]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush712)
+[2019.05.28-18.09.45:601][891]Cmd: EDIT COPY
+[2019.05.28-18.09.45:840][900]Cmd: EDIT PASTE
+[2019.05.28-18.09.51:741][  5]LogEditorViewport: Clicking Background
+[2019.05.28-18.09.52:769][ 44]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush713)
+[2019.05.28-18.09.53:717][ 79]Cmd: EDIT COPY
+[2019.05.28-18.09.53:915][ 86]Cmd: EDIT PASTE
+[2019.05.28-18.10.03:590][313]LogEditorViewport: Clicking Background
+[2019.05.28-18.10.04:319][340]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush714)
+[2019.05.28-18.10.05:308][376]Cmd: EDIT COPY
+[2019.05.28-18.10.05:515][384]Cmd: EDIT PASTE
+[2019.05.28-18.10.13:057][520]LogEditorViewport: Clicking Background
+[2019.05.28-18.10.14:050][557]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-18.10.19:776][766]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-18.10.26:072][  4]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush714)
+[2019.05.28-18.10.27:665][ 30]LogEditorViewport: Clicking Background
+[2019.05.28-18.10.32:630][215]LogEditorViewport: Clicking Background
+[2019.05.28-18.10.39:725][390]LogEditorViewport: Clicking Background
+[2019.05.28-18.10.51:117][686]Cmd: EDIT COPY
+[2019.05.28-18.10.51:957][706]Cmd: EDIT PASTE
+[2019.05.28-18.11.03:957][  2]LogEditorViewport: Clicking Background
+[2019.05.28-18.11.07:791][174]Cmd: EDIT PASTE
+[2019.05.28-18.11.10:001][174]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush715)
+[2019.05.28-18.11.13:292][304]LogEditorViewport: Clicking Background
+[2019.05.28-18.11.14:200][346]Cmd: EDIT PASTE
+[2019.05.28-18.11.25:943][653]LogEditorViewport: Clicking Background
+[2019.05.28-18.11.26:924][699]Cmd: EDIT PASTE
+[2019.05.28-18.11.35:232][890]LogEditorViewport: Clicking Background
+[2019.05.28-18.16.03:383][164]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2019.05.28-18.16.08:096][164]LogSavePackage: Moving '../../../../../../Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/EAE3010_WhiteBox_InClass_Auto49E0D326D4A6DFEF2EA92B994104F5CA4.tmp' to '../../../../../../Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/Autosaves/Game/EAE3010_WhiteBox_InClass_Auto4.umap'
+[2019.05.28-18.16.08:106][164]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/EAE3010_WhiteBox_InClass' took 5.049
+[2019.05.28-18.16.08:106][164]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 5.049
+[2019.05.28-18.16.19:865][201]LogEditorViewport: Clicking Background
+[2019.05.28-18.16.20:551][232]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush801)
+[2019.05.28-18.16.21:496][273]LogEditorViewport: Clicking Background
+[2019.05.28-18.16.22:315][309]Cmd: EDIT PASTE
+[2019.05.28-18.16.33:946][596]LogEditorViewport: Clicking Background
+[2019.05.28-18.16.35:272][659]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush930)
+[2019.05.28-18.16.37:467][719]LogEditorViewport: Clicking Background
+[2019.05.28-18.16.50:007][ 93]LogEditorViewport: Clicking Background
+[2019.05.28-18.17.08:889][583]LogEditorViewport: Clicking Background
+[2019.05.28-18.17.11:943][669]Cmd: EDIT PASTE
+[2019.05.28-18.17.30:122][152]LogEditorViewport: Clicking Background
+[2019.05.28-18.17.32:906][268]Cmd: EDIT PASTE
+[2019.05.28-18.17.43:561][499]LogEditorViewport: Clicking Background
+[2019.05.28-18.17.45:778][594]Cmd: EDIT PASTE
+[2019.05.28-18.17.54:661][735]LogEditorViewport: Clicking Background
+[2019.05.28-18.17.55:510][769]Cmd: EDIT PASTE
+[2019.05.28-18.18.06:131][967]LogEditorViewport: Clicking Background
+[2019.05.28-18.18.08:153][ 51]Cmd: EDIT PASTE
+[2019.05.28-18.18.18:259][250]LogEditorViewport: Clicking Background
+[2019.05.28-18.18.19:224][288]Cmd: EDIT PASTE
+[2019.05.28-18.18.28:726][484]LogEditorViewport: Clicking Background
+[2019.05.28-18.23.00:952][832]Cmd: EDIT PASTE
+[2019.05.28-18.23.42:390][318]LogEditorViewport: Clicking Background
+[2019.05.28-18.23.44:780][418]Cmd: EDIT PASTE
+[2019.05.28-18.23.53:938][578]LogEditorViewport: Clicking Background
+[2019.05.28-18.23.54:753][609]Cmd: EDIT PASTE
+[2019.05.28-18.24.04:051][787]LogEditorViewport: Clicking Background
+[2019.05.28-18.24.05:009][825]Cmd: EDIT PASTE
+[2019.05.28-18.24.17:294][109]LogEditorViewport: Clicking Background
+[2019.05.28-18.24.18:275][148]Cmd: EDIT PASTE
+[2019.05.28-18.24.30:249][409]LogEditorViewport: Clicking Background
+[2019.05.28-18.24.30:969][436]Cmd: EDIT PASTE
+[2019.05.28-18.24.39:428][557]LogEditorViewport: Clicking Background
+[2019.05.28-18.24.42:987][700]Cmd: EDIT PASTE
+[2019.05.28-18.24.57:362][ 38]LogEditorViewport: Clicking Background
+[2019.05.28-18.24.57:959][ 58]Cmd: EDIT PASTE
+[2019.05.28-18.25.07:621][211]LogEditorViewport: Clicking Background
+[2019.05.28-18.25.08:530][245]Cmd: EDIT PASTE
+[2019.05.28-18.25.26:765][737]LogEditorViewport: Clicking Background
+[2019.05.28-18.25.28:018][779]Cmd: EDIT PASTE
+[2019.05.28-18.25.42:426][ 61]LogEditorViewport: Clicking Background
+[2019.05.28-18.25.45:507][182]Cmd: TRANSACTION UNDO
+[2019.05.28-18.25.45:507][182]LogEditorTransaction: Undo Clicking Background
+[2019.05.28-18.25.45:757][182]LogMaterial: Display: Missing cached shader map for material WB_BuildingBlock, compiling. 
+[2019.05.28-18.25.45:780][182]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.28-18.25.50:704][287]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.28-18.25.54:532][303]MaterialEditorStats: Base pass shader: 109 instructions
+[2019.05.28-18.25.54:532][303]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2019.05.28-18.25.54:532][303]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.28-18.25.54:532][303]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.28-18.25.54:752][311]LogEditorViewport: Clicking Background
+[2019.05.28-18.25.56:548][380]Cmd: EDIT PASTE
+[2019.05.28-18.26.12:276][677]LogEditorViewport: Clicking Background
+[2019.05.28-18.26.13:194][708]Cmd: EDIT PASTE
+[2019.05.28-18.26.29:551][ 31]LogEditorViewport: Clicking Background
+[2019.05.28-18.26.30:705][ 73]Cmd: EDIT PASTE
+[2019.05.28-18.26.41:880][237]LogEditorViewport: Clicking Background
+[2019.05.28-18.26.42:745][267]Cmd: EDIT PASTE
+[2019.05.28-18.26.55:576][478]LogEditorViewport: Clicking Background
+[2019.05.28-18.26.56:588][514]Cmd: EDIT PASTE
+[2019.05.28-18.27.10:896][673]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-18.27.12:626][703]LogEditorViewport: Clicking Background
+[2019.05.28-18.27.13:737][744]Cmd: EDIT PASTE
+[2019.05.28-18.27.19:001][744]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-18.27.35:334][130]LogEditorViewport: Clicking Background
+[2019.05.28-18.27.45:814][309]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-18.28.16:429][199]Cmd: EDIT PASTE
+[2019.05.28-18.28.40:300][553]LogEditorViewport: Clicking Background
+[2019.05.28-18.28.41:334][581]Cmd: EDIT PASTE
+[2019.05.28-18.28.54:803][739]LogEditorViewport: Clicking Background
+[2019.05.28-18.28.57:629][821]Cmd: EDIT PASTE
+[2019.05.28-18.29.11:502][958]LogEditorViewport: Clicking Background
+[2019.05.28-18.29.15:118][ 63]Cmd: EDIT PASTE
+[2019.05.28-18.29.32:096][277]Cmd: EDIT PASTE
+[2019.05.28-18.29.46:777][447]Cmd: EDIT PASTE
+[2019.05.28-18.29.54:912][450]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.05.28-18.30.05:579][632]LogEditorViewport: Clicking Background
+[2019.05.28-18.30.06:318][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-18.30.09:455][649]LogUObjectHash: Compacting FUObjectHashTables data took 345.89ms
+[2019.05.28-18.30.16:899][649]LogSavePackage: Moving '../../../../../../Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/EAE3010_WhiteBox_InClassF8DF3A3848A9E65920F127A947D3FEBD.tmp' to '../../../../../../Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Content/EAE3010_WhiteBox_InClass.umap'
+[2019.05.28-18.30.18:914][649]LogSavePackage: Moving '../../../../../../Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/EAE3010_WhiteBox_InClass_BuiltDaD0985AC542182FE62EB219B9CD64713B.tmp' to '../../../../../../Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Content/EAE3010_WhiteBox_InClass_BuiltData.uasset'
+[2019.05.28-18.30.26:528][792]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-18.30.27:559][812]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-18.30.28:078][813]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-18.30.33:796][  9]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-18.31.03:168][  9]LogSlate: Window 'Save Level As' being destroyed
+[2019.05.28-18.31.03:854][  9]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-18.31.07:886][  9]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2019.05.28-18.31.08:522][  9]LogAIModule: Creating AISystem for world EAE3010_GitAssignment_1
+[2019.05.28-18.31.15:318][  9]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2019.05.28-18.31.37:207][  9]LogSavePackage: Moving '../../../../../../Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/EAE3010_GitAssignment_159A752A84C84D4E9145C508A12781F44.tmp' to '../../../../../../Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Content/EAE3010_GitAssignment_1.umap'
+[2019.05.28-18.31.44:363][  9]LogSavePackage: Moving '../../../../../../Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/EAE3010_GitAssignment_1_BuiltDat64CE2AC5469E37576300C79AAAF7CD8B.tmp' to '../../../../../../Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Content/EAE3010_GitAssignment_1_BuiltData.uasset'
+[2019.05.28-18.31.44:393][  9]LogFileHelpers: Saving map 'EAE3010_GitAssignment_1' took 40.654
+[2019.05.28-18.31.54:429][  9]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-18.31.55:080][  9]LightingResults: New page: Lighting Build
+[2019.05.28-18.31.57:687][  9]LoadErrors: New page: Loading map: EAE3010_GitAssignment_1.umap
+[2019.05.28-18.33.03:927][  9]MapCheck: New page: Map Check
+[2019.05.28-18.33.03:927][  9]LightingResults: New page: Lighting Build
+[2019.05.28-18.33.23:169][  9]LogUObjectHash: Compacting FUObjectHashTables data took  55.35ms
+[2019.05.28-18.33.53:285][  9]LogEditorServer: Finished looking for orphan Actors (0.010 secs)
+[2019.05.28-18.33.53:647][  9]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.05.28-18.33.54:033][  9]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.28-18.33.54:126][  9]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.004ms to complete.
+[2019.05.28-18.33.54:143][  9]LogFileHelpers: Loading map 'EAE3010_GitAssignment_1' took 129.643
+[2019.05.28-18.34.04:893][ 10]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.28-18.34.04:893][ 10]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.28-18.34.04:893][ 10]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.28-18.34.14:919][ 13]LogSlate: Window 'Message' being destroyed
+[2019.05.28-18.34.38:816][ 13]LogMaterial: Display: Missing cached shader map for material WB_BuildingBlock, compiling. 
+[2019.05.28-18.34.40:171][ 13]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.28-18.34.40:445][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-18.34.41:591][ 13]LogMaterial: Display: Missing cached shader map for material WB_BuildingBlock, compiling. 
+[2019.05.28-18.34.43:454][ 13]LogMaterial: Display: Missing cached shader map for material WB_BuildingBlock, compiling. 
+[2019.05.28-18.34.44:429][ 13]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.28-18.34.44:429][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.05.28-18.34.44:704][ 13]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.28-18.34.48:809][ 13]TextureStreamingBuild: Display: Compiling optional shaders took 4.149 seconds.
+[2019.05.28-18.34.49:136][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.05.28-18.34.49:259][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.05.28-18.34.49:639][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-18.34.53:486][ 13]LogSlate: Window 'Save Content' being destroyed
+[2019.05.28-18.34.53:506][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-18.34.57:110][ 13]LogSavePackage: Moving '../../../../../../Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Saved/WB_BuildingBlock67AC7BAC40D3F278C086368DB5C5415E.tmp' to '../../../../../../Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Content/WB_Materials/WB_BuildingBlock.uasset'
+[2019.05.28-18.34.58:078][ 13]LogSlate: Window 'WB_BuildingBlock' being destroyed
+[2019.05.28-18.36.20:043][ 13]LogSlate: Window 'EAE3010SR1 - Unreal Editor' being destroyed
+[2019.05.28-18.36.20:087][ 13]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.28-18.36.32:875][ 14]Cmd: QUIT_EDITOR
+[2019.05.28-18.36.45:913][ 14]LogExit: Preparing to exit.
+[2019.05.28-18.37.01:237][ 14]LogDirectoryWatcher: A directory notification failed for 'C:/Users/RCTen/OneDrive/Documents/GitHub/EAE-3010-Summer-Asset-Pipeline/GitHub-UnReal Assignment 001/EAE3010SR1 4.22/Content/', and we were unable to create a new request.
+[2019.05.28-18.37.12:879][ 14]LogExit: Editor shut down
+[2019.05.28-18.37.13:640][ 14]LogExit: Transaction tracking system shut down
