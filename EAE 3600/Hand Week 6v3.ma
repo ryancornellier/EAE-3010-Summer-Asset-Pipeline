@@ -1,6 +1,6 @@
 //Maya ASCII 2018ff09 scene
-//Name: Hand Week 6v2.ma
-//Last modified: Fri, Aug 09, 2019 04:12:30 PM
+//Name: Hand Week 6v3.ma
+//Last modified: Fri, Aug 09, 2019 04:12:38 PM
 //Codeset: 1252
 requires maya "2018ff09";
 requires "mtoa" "3.1.2.1";
@@ -15306,4 +15306,4 @@ connectAttr "groupId21.msg" ":initialShadingGroup.gn" -na;
 connectAttr "groupId22.msg" ":initialShadingGroup.gn" -na;
 connectAttr "groupId23.msg" ":initialShadingGroup.gn" -na;
 connectAttr "groupId24.msg" ":initialShadingGroup.gn" -na;
-// End of Hand Week 6v2.ma
+// End of Hand Week 6v3.ma
